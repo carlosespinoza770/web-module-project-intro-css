@@ -1,3 +1,70 @@
 body{
-    background-color:hotpink
+    background-color:white
 }
+
+  
+  
+
+  nav a{
+      border:2px solid black;
+      display:inline-block;
+      text-decoration:none;
+      color:white;
+      margin:5%;
+
+  }
+
+  .plan{
+      background-color:#ff764e;
+      padding:15px;
+      border-radius:10%
+
+  }
+
+  .Learn{
+    background-color:#5ed3eb;
+    padding:15px;
+    border-radius:10%
+  }
+
+  .get{
+    background-color:#ffcd69;
+    padding:15px;
+    border-radius:10%
+
+  }
+
+      .navbar{
+          text-align:center;
+      }
+
+      nav{
+          text-align:center;
+          
+
+      }
+
+       .firstPicture img{
+          border-radius:50%;
+          width:200px;
+          margin-left:-1000px ;
+    
+      }
+
+      .firstPicture{
+        display:inline-block;
+      }
+
+      .pictureTitle{
+          text-align:center;
+
+      }
+
+      .title{
+          margin-right:-1000px
+
+      }
+     
+
+
+    
